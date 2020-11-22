@@ -25,7 +25,7 @@
 p[name]{color:green;}
 
 p[name="pierwszy"]{color:yellow;}
-\\<!doctype html>
+<!doctype html>
 
 <html lang="pl">
 
